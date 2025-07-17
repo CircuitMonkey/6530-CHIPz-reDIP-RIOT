@@ -5,3 +5,6 @@ fp-info-cache
 *.xml
 *~
 .~*
+/hardware/CHIPz-RIOT-backups
+*.lck
+*.kicad_prl

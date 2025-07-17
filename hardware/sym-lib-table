@@ -1,4 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "onsemi")(type "KiCad")(uri "${KIPRJMOD}/symbols/onsemi.kicad_sym")(options "")(descr ""))
   (lib (name "reDIP")(type "KiCad")(uri "${KIPRJMOD}/symbols/reDIP.kicad_sym")(options "")(descr ""))
   (lib (name "TI")(type "KiCad")(uri "${KIPRJMOD}/symbols/TI.kicad_sym")(options "")(descr ""))
