@@ -4085,6 +4085,16 @@
 		)
 		(uuid "57f248a7-365e-4c42-b80d-5a7d1f9dfaf3")
 	)
+	(text "Hook to Vcc.\n"
+		(exclude_from_sim no)
+		(at 229.108 101.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "593b2521-4da8-4045-96e6-3b58e57cd37e")
+	)
 	(text "Power"
 		(exclude_from_sim no)
 		(at 15.24 21.59 0)
